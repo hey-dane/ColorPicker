@@ -46,7 +46,7 @@ body {
 }
 
 .selected {
-  border: 2px solid black;
+  border: 6px solid black;
 }
 
 /* colors */
@@ -54,10 +54,10 @@ body {
   background-color: #cf000f;
 }
 .orange {
-  background-color: #eb6b56;
+  background-color: #ff9524;
 }
 .yellow {
-  background-color: #ffc153;
+  background-color: #fff047;
 }
 .green {
   background-color: #27ae60;
@@ -66,7 +66,7 @@ body {
   background-color: #1d4fda;
 }
 .violet {
-  background-color: #462446;
+  background-color: #a32ba3;
 }
 .black {
   background-color: #000000;
